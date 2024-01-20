@@ -11,6 +11,9 @@ its a cat suprise!
 https://minesweeper.online/
 minesweeper for u
 
+heres an image
+![](image.png)
+
 # Summary (this is a large header)
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
@@ -19,14 +22,14 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 ## University Name 1 (City, State) this header is slighty smaller
 
-* [University 1][] description, particularly if not well-known. (this is in italics) * 
+* [University 1][] description, particularly if not well-known. * 
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
 Summary of your role
 
 - Accomplishment that contains **bold text**.
-- Accomplishment **this accomplishment is bold additionally these are in a list as well**
+- Accomplishment **this accomplishment is bold additionally these are in a list **
 - Accomplishment
 - Accomplishment
 
