@@ -1,6 +1,6 @@
 # kdub (this file is largely unchanged however it has some descriptions relaying that i am familiar with markdown)
 
-your.name@example.com
+https://freepacman.org/
 
 http://www.example.com
 
