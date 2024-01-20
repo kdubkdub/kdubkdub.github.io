@@ -32,7 +32,7 @@ Summary of your role
 
 Summary of your role
 
-- Accomplishment that contains **bold text**.
+>- Accomplishment that contains **bold text and is within a block quote**.
 - Accomplishment
 - Accomplishment
 - Accomplishment
