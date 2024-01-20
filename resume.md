@@ -12,7 +12,7 @@ https://minesweeper.online/
 minesweeper for u
 
 heres an image
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://hips.hearstapps.com/hmg-prod/images/torrence-action-mg-1-64cbc9c909b14.jpeg)
 
 # Summary (this is a large header)
 
