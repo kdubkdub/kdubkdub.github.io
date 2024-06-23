@@ -1,15 +1,15 @@
 # kdub (this file is largely unchanged however it has some descriptions relaying that i am familiar with markdown)
 
-https://freepacman.org/
 
-its pacman!
+[its pacman!](https://freepacman.org/
+)
 
 
-https://cat-bounce.com/
-its a cat suprise!
+[its a cat suprise!](https://cat-bounce.com/
+)
 
-https://minesweeper.online/
-minesweeper for u
+[minesweeper for u](https://minesweeper.online/
+)
 
 heres an image
 ![Alt text](https://hips.hearstapps.com/hmg-prod/images/torrence-action-mg-1-64cbc9c909b14.jpeg)
