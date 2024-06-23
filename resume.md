@@ -29,12 +29,12 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 Summary of your role
 
 - Accomplishment that contains **bold text**.
-- Accomplishment **this accomplishment is bold additionally these are in a list **
+- Accomplishment **this accomplishment is bold additionally these are in a list**
 - Accomplishment
 - Accomplishment
 
 ## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+*[University 2][] description, particularly if not well-known. Additionally this line is in italics*
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
