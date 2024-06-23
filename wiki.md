@@ -1,4 +1,4 @@
-# kdub (this file is largely unchanged however it has some descriptions relaying that i am familiar with markdown)
+# kdub (this file is largely unchanged however it has some descriptions relaying that i am familiar with markdown)((also this wiki is a resume 👍))
 
 
 [its pacman!](https://freepacman.org/
